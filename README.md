@@ -1,0 +1,1 @@
+# allure-junit-test
